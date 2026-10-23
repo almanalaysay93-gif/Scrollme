@@ -47,3 +47,11 @@ camera/scroll integration change requires rerunning scroll, keyboard and reduced
 motion checks. Overall status is FAIL if any required check fails, otherwise
 BLOCKED if any required check lacks evidence, otherwise PASS. Link screenshots
 and logs in QC_REPORT.md; distinguish observations from manual review still needed.
+
+## Required UX laws gate
+
+Follow [the mandatory UX workflow](ux-laws-workflow.md) independently of optional
+UX tools. QC owns `UX_LAWS_AUDIT.md`: cover all 14 laws using the source template,
+attach browser/screenshots/code/measurement evidence, assign fixes and re-audit.
+Any Violated finding makes overall QC FAIL. Missing evidence makes QC BLOCKED.
+Link justified Partial results and their scope reasons from `QC_REPORT.md`.

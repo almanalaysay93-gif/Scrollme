@@ -47,6 +47,10 @@ its destination files. It does not install dependencies or generate a website.
 
 ## 2. Plan and assign ownership
 
+Use the [Superlite execution adapter](references/superlite-integration.md) for
+request sizing, dependency scheduling, targeted repairs and fresh final review.
+Scrollme remains the sole coordinator; its confirmed brief and QC gates apply.
+
 Read [architecture guidance](references/architecture.md) and
 [the specialist roster](references/agents.md). Write `PLAN.md` using
 [the plan template](templates/PLAN.md). Include:
@@ -136,3 +140,12 @@ URL may need port forwarding. Use Python's HTTP server only for plain static sit
 If QC is blocked, label the preview unverified and disclose the specific blocker.
 Deploy or push when the user's request authorizes it; this workflow itself grants
 no permission to publish assets or contact other people.
+
+## Mandatory UX laws
+
+Before planning or building, read the complete [UX laws reference](references/ux-laws.md)
+and [its workflow](references/ux-laws-workflow.md). Map all 14 laws in the plan and
+include the relevant checks in every specialist handoff. After every build or
+significant change, complete `UX_LAWS_AUDIT.md`, fix findings and re-audit before
+completion. The audit is mandatory even when optional UX tools are skipped.
+Unresolved violations or missing evidence block completion; existing repair caps apply.

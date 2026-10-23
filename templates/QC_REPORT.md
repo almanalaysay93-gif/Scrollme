@@ -14,6 +14,7 @@ Overall status: BLOCKED — verification has not run
 
 | Check | PASS / FAIL / BLOCKED | Observation, command and evidence |
 | --- | --- | --- |
+| UX laws audit: all 14 laws, fixes and re-audit | BLOCKED | UX_LAWS_AUDIT.md not completed |
 | Production build and configured code checks | BLOCKED | Not run |
 | Scroll-to-camera mapping and reverse scroll | BLOCKED | Not run |
 | Desktop and mobile visual review | BLOCKED | Not run |
