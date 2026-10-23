@@ -10,6 +10,7 @@ from urllib.parse import unquote, urlsplit
 REQUIRED = (
     "SKILL.md", "README.md", "LICENSE",
     "references/architecture.md", "references/agents.md",
+    "references/superlite-integration.md",
     "references/sources-and-licenses.md", "references/verification.md",
     "templates/BRIEF.md", "templates/PLAN.md", "templates/CONTEXT.md",
     "templates/QC_REPORT.md", "scripts/init_project.py",

@@ -47,6 +47,10 @@ its destination files. It does not install dependencies or generate a website.
 
 ## 2. Plan and assign ownership
 
+Use the [Superlite execution adapter](references/superlite-integration.md) for
+request sizing, dependency scheduling, targeted repairs and fresh final review.
+Scrollme remains the sole coordinator; its confirmed brief and QC gates apply.
+
 Read [architecture guidance](references/architecture.md) and
 [the specialist roster](references/agents.md). Write `PLAN.md` using
 [the plan template](templates/PLAN.md). Include:

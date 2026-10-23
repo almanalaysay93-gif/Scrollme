@@ -72,3 +72,11 @@ GitHub Actions runs the same checks on pushes and pull requests.
 The workflow is implemented in [SKILL.md](SKILL.md). Start there to customize it;
 the `references/` files contain integration and QC details, and `templates/`
 contains the output documents.
+
+## Superlite execution
+
+This skill now uses a bundled [Superlite execution adapter](references/superlite-integration.md) for
+dependency-aware tasks, single-owner file contracts, targeted repairs and fresh
+final review. Its specialty workflow and quality gates remain in charge. No native
+plugin or model service is required. The reference includes optional native-plugin
+setup and host limitations. Never enable Superlite alongside Superpowers.
