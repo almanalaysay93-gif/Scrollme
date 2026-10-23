@@ -53,3 +53,13 @@ Coordinator and state/evidence document: PLAN.md / QC_REPORT.md
 Freeze the progress interface and assign shared integration files before dispatch.
 Fresh final reviewer and findings:
 Repair count / limit and remaining blockers:
+
+## UX laws planning map
+
+Read the skill's complete UX laws reference before completing this table. Include
+all 14 laws; record the reason when a law has no corresponding interaction.
+
+| Law | Page / flow / component | Design decision | Acceptance check / evidence | Owner |
+| --- | --- | --- | --- | --- |
+
+Post-build audit: UX_LAWS_AUDIT.md (required after every significant change).

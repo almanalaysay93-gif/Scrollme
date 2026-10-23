@@ -80,3 +80,11 @@ dependency-aware tasks, single-owner file contracts, targeted repairs and fresh
 final review. Its specialty workflow and quality gates remain in charge. No native
 plugin or model service is required. The reference includes optional native-plugin
 setup and host limitations. Never enable Superlite alongside Superpowers.
+
+## Mandatory UX laws
+
+The bundled [14-law UX reference](references/ux-laws.md) now applies to planning,
+implementation and post-build review. Plans map the laws to actual flows; every
+build or significant change produces `UX_LAWS_AUDIT.md` with evidence, fixes and
+re-audit results. Completion requires no violations and documented reasons for
+any justified Partial results. See [the audit workflow](references/ux-laws-workflow.md).
