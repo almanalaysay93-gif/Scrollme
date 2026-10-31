@@ -15,6 +15,7 @@ that choice. Never invent an upstream SKILL.md or silently execute remote script
 | GSAP | greensock/gsap-skills; official ScrollTrigger docs | src/agents/gsap/ | Scoped timelines, optional pinning and SplitText, cleanup |
 | Lenis | darkroomengineering/lenis | src/agents/lenis/ | One scroll instance, ticker sync, native input, destroy |
 | motion-web | feitangyuan/motion-web, only after license gate | src/agents/motion-web/ if selected | Separate attribution and compatible usage; otherwise explicitly skipped |
+| Design polish | Bundled [Unslop adapter](unslop-integration.md), adapted from heydamir/unslop | Assigned UI components and tokens only, before QC | Visual findings, UI fixes, attribution, before/after evidence; preserve brand and all approved motion; no paid services |
 | QC | Verification protocol and approved criteria | QC_REPORT.md | Evidence, status, repair tickets, retest |
 
 For shared workspaces, specialists edit disjoint files and return changes to the

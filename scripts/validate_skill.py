@@ -11,6 +11,8 @@ REQUIRED = (
     "SKILL.md", "README.md", "LICENSE",
     "references/architecture.md", "references/agents.md",
     "references/superlite-integration.md",
+    "references/unslop-integration.md", "THIRD_PARTY_NOTICES.md",
+    "third-party/unslop/LICENSE",
     "references/ux-laws.md", "references/ux-laws-workflow.md",
     "references/sources-and-licenses.md", "references/verification.md",
     "templates/BRIEF.md", "templates/PLAN.md", "templates/CONTEXT.md",

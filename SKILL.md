@@ -115,6 +115,13 @@ Integrate into the normal app entry, not an unreferenced `src/final` folder.
 
 ## 5. Verify, repair, and report
 
+First apply the bundled [Unslop design-polish adapter](references/unslop-integration.md)
+to the integrated UI. Use only its selected spacing, color, icons, copy,
+typography, local composition and detail passes. Preserve the approved brand,
+scroll narrative, parallax, springs and 3D movement. This pass adds no paid tools
+or services. Record findings and before/after evidence in QC_REPORT.md and rerun
+affected motion and UX checks before final review.
+
 Use a quality-check specialist when available; otherwise perform a separate review
 pass. Follow [the verification protocol](references/verification.md). Write
 `QC_REPORT.md` from [the report template](templates/QC_REPORT.md).

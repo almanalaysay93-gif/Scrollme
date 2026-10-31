@@ -39,7 +39,16 @@ Required models, images, textures, reference sources and license policy:
 
 ## Work sequence
 
-Research → disjoint specialist tasks → integration → QC → repairs → preview.
+Research → disjoint specialist tasks → integration → design polish → QC → repairs → preview.
+
+## Design-polish contract
+
+- Apply the bundled Unslop adapter to assigned UI components/tokens only.
+- Approved brand and motion to preserve:
+- Visual findings, allowed files and before/after evidence paths:
+- Layout/font changes affecting scroll measurement and owner for refresh:
+- No paid tools, image generation, or video services.
+- Rerun affected motion, accessibility, UX-law and performance checks before QC.
 
 ## Execution tasks (Superlite adapter)
 

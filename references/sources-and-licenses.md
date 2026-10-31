@@ -1,7 +1,10 @@
 # Official sources and license boundaries
 
 This package contains original workflow instructions and templates under MIT.
-It links to upstream projects rather than vendoring their code or instructions.
+The selected [Unslop adaptation](unslop-integration.md) is separately licensed
+under CC BY 4.0; see [third-party notices](../THIRD_PARTY_NOTICES.md).
+Other upstream projects are linked rather than bundled; Unslop's full license
+is included with the selected adaptation.
 Check the actual version's license before copying, installing, or shipping it.
 
 | Project | Official starting point | License guidance |
@@ -14,6 +17,7 @@ Check the actual version's license before copying, installing, or shipping it.
 | GSAP | https://github.com/greensock/GSAP and https://gsap.com/community/standard-license/ | Custom Standard License, not MIT. Free use includes commercial work subject to its terms; do not equate no charge with unrestricted redistribution. |
 | GSAP skills | https://github.com/greensock/gsap-skills | Official instructions; inspect current license before redistribution. |
 | Lenis | https://github.com/darkroomengineering/lenis | MIT; use current README integration guidance. |
+| Unslop | https://github.com/heydamir/unslop | CC BY 4.0; commercial use allowed with attribution and other license conditions. Only the bundled conflict-filtered design adapter is active; no paid generation or motion-removal pass. |
 | motion-web | https://github.com/feitangyuan/motion-web/blob/main/LICENSE | CC BY-NC 4.0 with stated commercial licensing requirements. Excluded by default. |
 
 Upstream Motion README, official gsap-skills repository metadata and motion-web

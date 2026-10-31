@@ -42,8 +42,10 @@ Slash-command and automatic discovery support depend on the host.
 
 No website is bundled or deployed by installing this repository. The skill does
 not ship upstream libraries, third-party assets, paid examples, or motion-web content.
-The MIT license covers this repository; generated projects retain their dependencies'
-and assets' separate terms. See [sources and licenses](references/sources-and-licenses.md).
+The root MIT license covers Scrollme's original material. The bundled Unslop
+adaptation is CC BY 4.0 with attribution; see [third-party notices](THIRD_PARTY_NOTICES.md).
+Generated projects retain their dependencies' and assets' separate terms.
+See [sources and licenses](references/sources-and-licenses.md).
 
 ## Optional planning helper
 
@@ -88,3 +90,17 @@ implementation and post-build review. Plans map the laws to actual flows; every
 build or significant change produces `UX_LAWS_AUDIT.md` with evidence, fixes and
 re-audit results. Completion requires no violations and documented reasons for
 any justified Partial results. See [the audit workflow](references/ux-laws-workflow.md).
+
+## Included Unslop design polish
+
+Scrollme now applies a bundled [Unslop adapter](references/unslop-integration.md)
+after integration and before final QC. It improves spacing, colors, icons, copy,
+typography and UI details while preserving approved brand choices, scroll
+animations, parallax, springs and 3D camera movement.
+
+No separate Unslop installation, subscription, API key or paid asset is required.
+Image generation and story-video tools are excluded. Your existing coding-agent
+and hosting costs, if any, are separate. The selected guidance is adapted from
+[Unslop by Damir Sokolovsky](https://github.com/heydamir/unslop) under CC BY 4.0,
+which permits commercial use with attribution and its other conditions.
+See [third-party notices](THIRD_PARTY_NOTICES.md) for source, changes and license.

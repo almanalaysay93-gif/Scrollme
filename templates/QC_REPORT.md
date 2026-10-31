@@ -14,6 +14,7 @@ Overall status: BLOCKED — verification has not run
 
 | Check | PASS / FAIL / BLOCKED | Observation, command and evidence |
 | --- | --- | --- |
+| Unslop design polish and protected motion review | BLOCKED | Findings, before/after evidence and affected-check retests not recorded |
 | UX laws audit: all 14 laws, fixes and re-audit | BLOCKED | UX_LAWS_AUDIT.md not completed |
 | Production build and configured code checks | BLOCKED | Not run |
 | Scroll-to-camera mapping and reverse scroll | BLOCKED | Not run |
@@ -31,6 +32,15 @@ Overall status: BLOCKED — verification has not run
 
 Record actual values, definitions, targets, measurement methods and limits. Do not
 describe targets or headless frame counts as measured device performance.
+
+## Design-polish evidence
+
+- Adapter source/ref and attribution:
+- Scope, reviewer, visual findings and assigned UI files:
+- Before/after screenshots and preserved approved brand/motion:
+- Layout or font changes and scroll-bound refresh:
+- Forward/reverse scroll, reduced motion, keyboard, mobile and performance retests:
+- Paid tools/services: none introduced by this pass.
 
 ## Repair tickets and retests
 
