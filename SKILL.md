@@ -65,6 +65,10 @@ Read [architecture guidance](references/architecture.md) and
 - Work items for Motion, Three.js, R3F/drei, GSAP and Lenis; activate only the
   technologies justified by the brief. Merge R3F into Three.js for vanilla builds.
 
+For GSAP work, use the [GSAP specialist agent](references/gsap-agent.md).
+Its official upstream skills must be installed and verified before GSAP implementation;
+see that role's required installation procedure.
+
 When delegation is available, use a dedicated specialist per active repository.
 Read that repository's current official skill or documentation before assigning
 implementation. Give each specialist the approved brief, relevant plan sections,

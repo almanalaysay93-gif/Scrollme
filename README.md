@@ -104,3 +104,17 @@ and hosting costs, if any, are separate. The selected guidance is adapted from
 [Unslop by Damir Sokolovsky](https://github.com/heydamir/unslop) under CC BY 4.0,
 which permits commercial use with attribution and its other conditions.
 See [third-party notices](THIRD_PARTY_NOTICES.md) for source, changes and license.
+
+## GSAP specialist setup
+
+The [GSAP specialist agent](references/gsap-agent.md) now requires the official
+GSAP skills before implementing GSAP work. In your target website project, run:
+
+```bash
+npx skills add https://github.com/greensock/gsap-skills
+```
+
+Select your coding agent and project scope, then verify the installed skills are
+available. This installs agent guidance; the coordinator installs `gsap` separately
+as an app dependency when selected. No paid GSAP plugin or membership is required.
+Installing Scrollme alone does not automatically execute the upstream installer.
